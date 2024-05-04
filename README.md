@@ -4,9 +4,9 @@ This repository hosts the materials covered in the Coursera Project Network's gu
 
 In this project, you will learn:
 
-* Use SELECT Statements to select columns of datasets
-* Apply conditions to a SQL query using the WHERE clause
-* Group a dataset by one or more columns.with the GROUP BY clause
+* Use `SELECT` Statements to select columns of datasets
+* Apply conditions to a SQL query using the `WHERE` clause
+* Group a dataset by one or more columns.with the `GROUP BY` clause
 
 
 ## Scenario
@@ -75,6 +75,6 @@ D. ORDER BY
 Your Task:
 
 1. Retrieve all orders made by a specific customer whose `CustomerID` is 'ALFKI'
-2. Retrieve all orders made in a specific year 1997. (Use the SQL function YEAR() to access the year of OrderDate)
+2. Retrieve all orders made in a specific year 1997. (Use the SQL function `YEAR()` to access the year of `OrderDate`)
 3. Retrieve the total number of orders for each customer.
-4. Retrive the ProductID, Sum of Orders by ProductID and the TotalOrderAmount as the SUM of UnitPrice and Quantity
+4. Retrive the `ProductID`, Sum of Orders by `ProductID` and the TotalOrderAmount as the SUM of `UnitPrice` and `Quantity`
