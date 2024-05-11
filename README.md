@@ -21,19 +21,19 @@ Your goal is ultimately to analyze sales data for a 3-month period. Before analy
 
 ## Guided Project Tasks
 
-#### Task #1: Use SELECT Statements to select columns
+**Task 1: Use SELECT Statements to select columns**
 Learn how to SELECT statements to select one or multiple columns of database tables.
 
-#### Task #2: Use the WHERE clause to apply conditions
+**Task 2: Use the WHERE clause to apply conditions**
 Learn how to apply conditions to a SQL query using the WHERE clause.
 
-#### Task #3: Apply GROUP BY to group data by columns
+**Task 3: Apply GROUP BY to group data by columns**
 Learn how to group a dataset by one or more columns with the GROUP BY clause.
 
-### Practice Quiz
+## Practice Quiz
 Q&A on SELECT, WHERE and GROUP BY clauses in SQL
 
-### Capstone Activity
+## Capstone Activity
 Use basic SQL clauses such as SELECT, GROUP BY and WHERE to query data from the database as a Sales executive of Northwind Traders
 
 
